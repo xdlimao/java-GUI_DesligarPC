@@ -3,8 +3,7 @@ import java.awt.event.*;
 import java.io.IOException;
 import java.lang.Runtime;
 public class Interface {
-	public static void main(String[] args) {
-		
+	public Interface(){		
 		JFrame window = new JFrame("Desligar Computador Simples");
 		window.setSize(400,400);
 		window.setLayout(null);
